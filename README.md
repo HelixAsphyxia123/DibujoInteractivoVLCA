@@ -5,7 +5,7 @@ Problematica que se desarrollo:
 *Se desarrollo un programa que implemento una aplicación con GUI de dibujo interactivo.  La aplicación dibuja lineas, óvalos y rectángulos, pudiendo seleccionar colores y poder dibujar figuras rellenas.*
 
 # *Link del funcionamiento del programa.*
-https://flipgrid.com/86b87252
+*https://flipgrid.com/86b87252*
 
 # Elementos visuales y funcionamiento.
 
@@ -24,12 +24,12 @@ NetBeans 8.2 y GIT*
 
 # Agradecimientos.
 
-Levy Rojas(nuestro docente) por alentarnos, a mi esfuerzo.
+*Levy Rojas(nuestro docente) por alentarnos,y a mi por el esfuerzo.
 
 # Referencias:
 
-file:///C:/Users/valti/Downloads/Como%20programar%20en%20Java%20-%207ma%20Edicion%20-%20P.%20J.%20Deitel%20(1).pdf
-https://anabelisa.co/readme/
+*file:///C:/Users/valti/Downloads/Como%20programar%20en%20Java%20-%207ma%20Edicion%20-%20P.%20J.%20Deitel%20(1).pdf*
+*https://anabelisa.co/readme/*
 
 
 # Resultados.
