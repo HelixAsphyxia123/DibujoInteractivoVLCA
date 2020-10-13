@@ -11,11 +11,15 @@ Problematica que se desarrollo:
 
 *~Existe un botón para deshacer la última figura que se haya dibujado.*
 
-*~Un botón para borrar todas las figuras del dibujo. Un botón para seleccionar el color.*
+*~Un botón para borrar todas las figuras del dibujo.* 
+
+*~Un botón para seleccionar el color.*
 
 *~Un cuadro combinado para seleccionar la figura a dibujar.*  
 
 *~Una casilla de verificación que especifique si una figura debe estar rellena o sin relleno.*
+
+*~Muestra las coordenadas en las que se encuentra el mouse como funcion adicional.
 
 # -Pre-requisitos 📋
 
