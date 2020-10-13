@@ -9,7 +9,7 @@ Problematica que se desarrollo:
 
 # Elementos visuales y funcionamiento.
 
-*~Existe un botón para deshacer la última figura que se haya dibujado. *
+*~Existe un botón para deshacer la última figura que se haya dibujado.*
 
 *~Un botón para borrar todas las figuras del dibujo. Un botón para seleccionar el color.*
 
